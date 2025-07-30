@@ -1,0 +1,42 @@
+#jumbotron {
+    background-image: url(bgimg.png);
+    text-align: center;
+    color: white !important;
+    margin-top: 57px;
+}
+#content {
+    text-align: center;
+}
+#navbar {
+    background-color: #186629 !important;
+    margin-bottom: 2px;
+    color: white !important;
+}
+#footer {
+    background-image: url(bgimg.png);
+    margin-top: 50px;
+    padding: 150px;
+}
+.card-footer {
+    background-color: #198754 !important;
+}
+#update {
+    color: white !important;
+}
+#download {
+    height: 120px;
+    width: 120px;
+    border-radius: 10px;
+}
+#download:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+#text-footer {
+    color: white !important;
+}
+#more {
+    text-decoration: none;
+    color: lightgreen;
+    font-weight: bold;
+}
